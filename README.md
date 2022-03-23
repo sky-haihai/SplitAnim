@@ -1,4 +1,4 @@
 # SplitAnim
 
 ## How to use  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ScMzIvxBSi4/0.jpg)](https://www.youtube.com/watch?v=ScMzIvxBSi4)
+[![Tutorial](https://img.youtube.com/vi/58BqEQTv2ZY/0.jpg)](https://www.youtube.com/watch?v=58BqEQTv2ZY)
