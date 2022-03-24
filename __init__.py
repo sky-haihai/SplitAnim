@@ -2,7 +2,7 @@ import bpy
 bl_info = {
     'name': 'SplitAnim',
     'author': 'sky_haihai <skyhaihai2000@gmail.com>',
-    'version': (0, 1),
+    'version': (0, 2),
     'blender': (3, 1, 0),
     'category': 'Animation',
     'location': 'View3D > SideBar[N] > SplitAnim',
