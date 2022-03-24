@@ -1,4 +1,6 @@
 # SplitAnim
+## Supported Blender Version  
+Only tested on 3.1.0  
 ## What it does
 Split the rotation on a original bone evenly to target bones using constraints
 ## Why useful
